@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojciech</h1>
 
-- 🔭 I’m currently learning Automated testing 😉
+- 🔭 I’m currently learning ISTQB 😉
 
 - 📫 How to reach me **pakocawojciech@gmail.com**
 
